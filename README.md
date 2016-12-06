@@ -12,3 +12,7 @@ label.Text = "Good Evening Dheeraj, This is a scrolling Label.";
 this.View.AddSubview(label);
 label.BeginScrollWithDirection(ScrollLabelDirection.Left);
 ```
+
+###Output
+
+![](https://github.com/guntidheerajkumar/ScrollingLabel/blob/master/Output.gif)
